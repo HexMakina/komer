@@ -1,0 +1,17 @@
+{
+  "name": "hexmakina/komer",
+  "description": "kadro website and e-commerce application",
+  "type": "package",
+  "require": {
+    "php": ">=7.0",
+    "hexmakina/kadro": "0.0.*"
+  },
+  "license": "mit",
+  "authors": [
+      {
+          "name": "HexMakina",
+          "email": "touch@hexmakina.be",
+          "homepage": "https://hexmakina.be"
+      }
+  ]
+}
